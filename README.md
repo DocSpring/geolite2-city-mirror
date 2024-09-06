@@ -7,6 +7,6 @@ This is a mirror of the GeoLite2 IP/City database found at:
 # Update
 
 ```bash
-curl -fL "http://geolite.maxmind.com/download/geoip/database/GeoLite2-City.tar.gz" \
+curl -fL "https://git.io/GeoLite2-City.mmdb" \
   -o "GeoLite2-City.tar.gz"
 ```
